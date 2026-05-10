@@ -1,0 +1,44 @@
+﻿# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ?섍꼍蹂??
+.env
+.env.local
+.env.development
+.env.production
+
+# 鍮뚮뱶 寃곌낵臾?
+dist/
+build/
+out/
+
+# 濡쒓렇
+logs/
+*.log
+
+# OS ?뚯씪
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Spring Boot / Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle/
+*.class
+*.jar
+*.war
+*.ear
+spring-shell.log
+HELP.md
